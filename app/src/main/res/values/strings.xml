@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Examen_Practico</string>
+    <string name="app_name">Fraguas de Isengard</string>
+    <string-array name="tiposUnidad">
+        <item>Guerrero</item>
+        <item>Arquero</item>
+        <item>Explorador</item>
+        <item>Berserker</item>
+    </string-array>
 </resources>

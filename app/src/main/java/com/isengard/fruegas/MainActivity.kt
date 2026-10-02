@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
             if (!antorcha.isChecked) {
                 Log.e("error", "¡Peligro! Unidad enviada sin fuego")
             }
-                //si el nomnre es válido, lee los demás componentes
+                //si el nombre es válido, lee los demás componentes
                 val tipoUnidad = rol.selectedItem.toString()
 
                 //lee si seleccionó armadura, escudo o antorcha:
